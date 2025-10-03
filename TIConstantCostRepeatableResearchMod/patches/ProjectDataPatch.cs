@@ -14,7 +14,8 @@ namespace TIConstantCostRepeatableResearchMod
     internal static class ProjectDataPatch
     {
         /// <summary>
-        /// Removes the cost multiplicator for repeatable global technologies
+        /// Avoids adding the completed repeatable projects to various data structures
+        /// Just a small optimization to reduce late game lag a tiny little bit
         /// </summary>
         [HarmonyPrefix]
         private static bool AddCompletedProjectPrefix(TIFactionState __instance, in TIProjectTemplate project)
