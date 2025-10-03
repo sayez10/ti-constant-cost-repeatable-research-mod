@@ -1,5 +1,5 @@
 {
-	"Id": "ConstantCostRepeatableResearchMod",
+	"Id": "TIConstantCostRepeatableResearchMod",
 	"DisplayName": "Constant-Cost Repeatable Research",
 	"title": "Constant-Cost Repeatable Research",
 	"author": "sayez10",
@@ -10,7 +10,7 @@
 	"GameVersion": "0.4.101",
 	"AssemblyName": "TIConstantCostRepeatableResearchMod.dll",
 	"EntryMethod": "TIConstantCostRepeatableResearchMod.Main.Load",
-	"mod url": "https://steamcommunity.com/sharedfiles/filedetails/?id=xxxxxxxxxx",
+	"mod url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3579828446",
 	"Website": "https://www.nexusmods.com/terrainvicta/mods/xxxxxxxxxx",
 	"CreatorContact": "https://github.com/sayez10/ti-constant-cost-repeatable-research-mod"
 }
