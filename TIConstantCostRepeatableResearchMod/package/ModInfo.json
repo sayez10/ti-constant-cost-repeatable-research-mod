@@ -1,0 +1,16 @@
+{
+	"Id": "ConstantCostRepeatableResearchMod",
+	"DisplayName": "Constant-Cost Repeatable Research",
+	"title": "Constant-Cost Repeatable Research",
+	"author": "sayez10",
+	"description": "A simple mod that removes the cost increase for the repeated research of repeatable projects and technologies in Terra Invicta.",
+	"License": "MIT",
+	"Version": "0.0.0.1",
+	"ManagerVersion": "0.32.4",
+	"GameVersion": "0.4.101",
+	"AssemblyName": "TIConstantCostRepeatableResearchMod.dll",
+	"EntryMethod": "TIConstantCostRepeatableResearchMod.Main.Load",
+	"mod url": "https://steamcommunity.com/sharedfiles/filedetails/?id=xxxxxxxxxx",
+	"Website": "https://www.nexusmods.com/terrainvicta/mods/xxxxxxxxxx",
+	"CreatorContact": "https://github.com/sayez10/ti-constant-cost-repeatable-research-mod"
+}
