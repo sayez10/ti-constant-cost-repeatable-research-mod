@@ -10,7 +10,7 @@ using PavonisInteractive.TerraInvicta;
 
 namespace TIConstantCostRepeatableResearchMod
 {
-    [HarmonyPatch(typeof(TIFactionState), "AddCompletedProject")]
+    [HarmonyPatch(typeof(TIFactionState), "AddCompletedProject", new[] { typeof(TIProjectTemplate) })]
     internal static class ProjectDataPatch
     {
         /// <summary>
