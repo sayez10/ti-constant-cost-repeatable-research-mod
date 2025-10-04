@@ -95,7 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="package\ModInfo.json" />
-    <None Include="package\TIConstantCostRepeatableResearchMod.png" />
+    <None Include="package\UIScience.en" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
